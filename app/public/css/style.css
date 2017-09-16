@@ -1,0 +1,56 @@
+body {
+width: 100%;
+margin: auto;
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+/*background-image: url("/images/background.jpg");*/
+}
+
+header {
+height: 65px;
+}
+
+header > nav {
+height: 100%;
+}
+
+img {
+margin-left: 80px;
+}
+
+main {
+flex: 1 0 auto;
+}
+
+main h2 {
+font-weight: 100;
+}
+
+
+#head-nav-links {
+margin-right: 50px;
+margin-top: 10px;
+}
+
+#background {
+opacity: 0.8;
+background-image: 100px;
+margin-left: -4px
+
+}
+
+.mainpanel1{
+margin: -735px;
+}
+
+.mainpanel {
+margin-top: 30px;
+}
+
+#mainpanel-content {
+margin: 40px;
+}
+
+.modal {
+width: 30% !important;
