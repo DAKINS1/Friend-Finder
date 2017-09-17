@@ -16,7 +16,7 @@ height: 100%;
 }
 
 img {
-margin-left: 80px;
+margin-left: 110px;
 }
 
 main {
@@ -29,8 +29,8 @@ font-weight: 100;
 
 
 #head-nav-links {
-margin-right: 50px;
-margin-top: 10px;
+margin-right: 100px;
+
 }
 
 #background {
@@ -54,3 +54,10 @@ margin: 40px;
 
 .modal {
 width: 30% !important;
+}
+
+
+#footerRight {
+font-size: 20px;
+/*margin-bottom: 40px;*/
+}
